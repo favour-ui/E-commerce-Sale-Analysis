@@ -3,10 +3,15 @@
 ## Table of Content
 
 - [Project Overview](#project-overview)
-- [Data Sources](data-sources)
-- [Tools](tools)
-- [Data Cleaning/Preparation](data-cleaning/preparation)
-- [Expository Data Analysis(EDA)](expository-data-analysis(eda))
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [Expository Data Analysis](#expository-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#resultsfindings)
+- [Recommendations](#recommendations)
+
+
 
 ### Project Overview
 This project analyzes sales data from an e-commerce platform over a specified period (January 1, 2019 – March 19, 2019). The goal is to understand performance in terms of income, product demand, sales channels, and customer behavior. The insights are intended to guide strategic decisions for enhancing sales and customer engagement.
@@ -30,7 +35,7 @@ In the initial data preparation phase, we perform the following tasks
 2. Handling missing data
 3. Making product names, dates, and customer types consistent
 4. Data cleaning and formatting
-### Expository Data Analysis(EDA)
+### Expository Data Analysis
 Expository Data Analysis (EDA) – Key Questions Explored
 
 - What is the total income generated during the period?
